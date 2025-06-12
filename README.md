@@ -4,18 +4,18 @@ This repository contains the analysis and insights derived from the Blinkit Sale
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Key Performance Indicators (KPIs) Overview](#key-performance-indicators-kpis-overview)
-- [Dashboard Functionality: Dynamic KPI Selection](#dashboard-functionality-dynamic-kpi-selection)
-- [Visualizations Analysis](#visualizations-analysis)
-  - [1. Total Sales & Average Sales by FAT Content](#1-total-sales--average-sales-by-fat-content)
-  - [2. Item Type Performance](#2-item-type-performance)
-  - [3. FAT Content Sales by Outlet Tier](#3-fat-content-sales-by-outlet-tier)
-  - [4. Outlet Establishment & Sales Trend](#4-outlet-establishment--sales-trend)
-  - [5. Sales by Outlet Size](#5-sales-by-outlet-size)
-  - [6. Outlet Location Distribution](#6-outlet-location-distribution)
-  - [7. Outlet Type Performance](#7-outlet-type-performance)
-- [Conclusion & Recommendations](#conclusion--recommendations)
+- [Introduction]
+- [Key Performance Indicators (KPIs) Overview]
+- [Dashboard Functionality: Dynamic KPI Selection]
+- [Visualizations Analysis]
+  - [1. Total Sales & Average Sales by FAT Content]
+  - [2. Item Type Performance]
+  - [3. FAT Content Sales by Outlet Tier]
+  - [4. Outlet Establishment & Sales Trend]
+  - [5. Sales by Outlet Size]
+  - [6. Outlet Location Distribution]
+  - [7. Outlet Type Performance]
+- [Conclusion & Recommendations]
 
 ## Introduction
 
